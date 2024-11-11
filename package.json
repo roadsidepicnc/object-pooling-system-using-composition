@@ -1,0 +1,11 @@
+{
+    "name": "com.emreszr.object-pooling-system",
+    "displayName": "Object Pooling System Using Composition",
+    "version": "1.0.0",
+    "unity": "2020.3",
+    "description": "Simple solution for object pooling using composition",
+    "author": {
+        "name": "Emre Sezer",
+        "email": "emre.sezer.2019@gmail.com"
+    }
+}
